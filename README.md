@@ -1,8 +1,8 @@
-<!-- Banner opcional com imagem personalizada -->
+<!-- Banner opcional
 <p align="center">
   <img src="https://via.placeholder.com/800x200/FFC0CB/000000?text=Bem+vinda+ao+meu+GitHub!" alt="Banner">
 </p>
-
+a -->
 <h1 align="center">🌸 Olá, eu sou a Alice!</h1>
 
 <p align="center">
