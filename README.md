@@ -47,7 +47,7 @@ Solução inovadora para carregamento de carros elétricos.
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/alice-nunessantos)
+- 💼 LinkedIn: www.linkedin.com/in/alice-nunessantos
 - 📬 E-mail: alicenuunes05@gmail.com
 - 🖼️ Portfólio (em breve...)
 
