@@ -54,5 +54,5 @@ Solução inovadora para carregamento de carros elétricos.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Explore+meus+projetos+com+carinho+%F0%9F%92%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Explore+meus+projetos+%F0%9F%92%96" alt="Typing SVG" />
 </p>
