@@ -14,7 +14,7 @@ a -->
 ### 💖 Sobre mim
 
 - 🎓 Atualmente estudando na **FIAP**
-- 🔧 Projetos com **Java, Python, React e SCRUM**
+- 🔧 Projetos com **C#, Java, Python, React e SCRUM**
 - 🌱 Sempre aprendendo algo novo e desafiador
 - 💬 Gosto de ajudar colegas iniciantes a se adaptarem à área de TI
 
